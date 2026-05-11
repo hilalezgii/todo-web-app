@@ -159,21 +159,3 @@ npx cap sync
 ```
 
 ---
-
-## 🤝 Katkı Rehberi
-
-1. Bu repoyu fork'la
-2. Yeni bir branch oluştur: `git checkout -b feature/ozellik-adi`
-3. Değişikliklerini yap ve commit'le: `git commit -m 'feat: yeni özellik'`
-4. Branch'ini push'la: `git push origin feature/ozellik-adi`
-5. Pull Request aç
-
-### Commit Mesajı Kuralları
-
-```
-feat: yeni özellik
-fix: hata düzeltme
-refactor: kod yeniden düzenleme
-style: stil değişikliği
-docs: dokümantasyon
-```
