@@ -1,0 +1,13 @@
+{
+  "appId": "com.hilalezgi.todoapp",
+  "appName": "todo-app",
+  "webDir": "dist",
+  "ios": {
+    "minVersion": "14.0"
+  },
+  "plugins": {
+    "Preferences": {
+      "group": "NativeStorage"
+    }
+  }
+}
